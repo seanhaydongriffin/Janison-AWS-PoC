@@ -2,7 +2,7 @@
 allow-cors = true
 host = "localhost"
 port = 5555
-grid-url = "https://localhost:4444"
+grid-url = "https://172.31.27.218:4444"
 [[node.driver-configuration]]
 max-sessions = 20
 display-name = "Windows Internet Explorer 11"
