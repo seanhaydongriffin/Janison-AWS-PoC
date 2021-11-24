@@ -121,4 +121,18 @@ java -Xmx128m -jar ./selenium-server-4.0.0.jar node --host <Mac Public IP addres
 
 
 java -Xmx128m -jar ./selenium-server-4.0.0.jar node --host 3.128.28.238 --detect-drivers true --publish-events tcp://172.31.27.218:4442 --subscribe-events tcp://172.31.27.218:4443
+  
+### Stopping Mac instances
+  
+When you stop a Mac instance, the instance remains in the stopping state for about 15 minutes before it enters the stopped state.
+
+When you stop or terminate a Mac instance, Amazon EC2 performs a scrubbing workflow on the underlying Dedicated Host to erase the internal SSD, to clear the persistent NVRAM variables, and if needed, to update the bridgeOS software on the underlying Mac mini. This ensures that Mac instances provide the same security and data privacy as other EC2 Nitro instances. It also enables you to run the latest macOS AMIs without manually updating the bridgeOS software. During the scrubbing workflow, the Dedicated Host temporarily enters the pending state. If the bridgeOS software does not need to be updated, the scrubbing workflow takes up to 50 minutes to complete. If the bridgeOS software needs to be updated, the scrubbing workflow can take up to 3 hours to complete.
+
+You can't start the stopped Mac instance or launch a new Mac instance until after the scrubbing workflow completes, at which point the Dedicated Host enters the available state.
+
+Metering and billing is paused when the Dedicated Host enters the pending state. You are not charged for the duration of the scrubbing workflow. 
+  
+  
+  
+  
 
