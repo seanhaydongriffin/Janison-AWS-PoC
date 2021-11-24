@@ -1,6 +1,14 @@
 # Janison AWS PoC
 
-## Windows EC2 VMs
+## Security Groups
+
+Install the security groups and rules from the latest files from the repository as above ...
+
+*_exportRulesToCsv.csv
+*_exportSecurityGroupsToCsv.csv
+
+
+## Windows EC2 Instances
 
 ### Install Chrome for Windows (if not already)
 
@@ -8,7 +16,7 @@
 
 C:\Selenium\selenium grid control.exe
 
-## Mac EC2 VMs
+## Mac EC2 Instances
 
 ### Remote Controlling the Mac with VNC
 
