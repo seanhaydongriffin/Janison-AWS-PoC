@@ -49,6 +49,10 @@ C:\Selenium\selenium grid control.exe
 
 ### Remote Controlling the Mac with VNC
 
+See https://www.lets-talk-about.tech/2020/12/aws-create-macos-desktop.html
+
+...and ...
+
 The following instructions were taken from -> https://aws.amazon.com/premiumsupport/knowledge-center/ec2-mac-instance-gui-access/
 
 Note: The following steps are tested for macOS Mojave 10.14.6 and macOS Catalina 10.15.7.
