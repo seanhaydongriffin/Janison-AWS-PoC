@@ -1,6 +1,10 @@
 # Janison AWS PoC
 
-## Mac VM
+## Windows EC2 VMs
+
+
+
+## Mac EC2 VMs
 
 ### Remote Controlling the Mac with VNC
 
