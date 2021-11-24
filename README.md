@@ -1,5 +1,21 @@
 # Janison AWS PoC
 
+
+## AMIs
+
+Import the following OS as AMIs ...
+
+Windows 7
+Windows 8.1
+Windows 10
+
+## Instances
+
+Create the resources contained in "resources.csv" in the repository above.  
+Instances are created from AMIs.
+All the Window 7, 8.1 and 10 resources will be created from the 3 AMIs above.
+The Windows Server (2016) will be created from the AMI provided by AWS in the marketplace.
+
 ## Security Groups
 
 Install the security groups and rules from the latest files from the repository as above ...
