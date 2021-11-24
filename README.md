@@ -2,7 +2,11 @@
 
 ## Windows EC2 VMs
 
+### Install Chrome for Windows (if not already)
 
+### Start Selenium Node
+
+C:\Selenium\selenium grid control.exe
 
 ## Mac EC2 VMs
 
