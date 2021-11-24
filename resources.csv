@@ -1,0 +1,8 @@
+Identifier,Tag: Name,Service,Type,Region,Tags
+i-0a60c74dbeaafc293,awsauto100 (Win 7),EC2,Instance,us-east-2,1
+i-0a0b4d43b74c0a0a7,awsauto200 (Win 8.1),EC2,Instance,us-east-2,1
+i-0c1fd6e8036ebbeb3,server (Win Server 2016),EC2,Instance,us-east-2,1
+i-03bb023d2e4821148,awsauto101 (Win 7),EC2,Instance,us-east-2,1
+i-0d7085c3b23455401,awsauto300 (Mac Big Sur),EC2,Instance,us-east-2,1
+i-0196d6cf0ec0fea4f,awsauto02 (Win 10),EC2,Instance,us-east-2,1
+i-0fdc731a701db03a5,awsauto01 (Win 10),EC2,Instance,us-east-2,1
