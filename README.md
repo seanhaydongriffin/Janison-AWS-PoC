@@ -11,6 +11,12 @@ Windows 10
 
 Additional AMIs can be manually created later from existing Instances (below).
 
+## Instance Types
+
+Comparions of instance types and pricing ...
+
+https://instances.vantage.sh/
+
 ## Instances
 
 Create the resources contained in "resources.csv" in the repository above.  
