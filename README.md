@@ -117,7 +117,7 @@ From this repository (above) download the latest selenium server.
 
 Open a Terminal and ...
 
-java -Xmx128m -jar ./selenium-server-4.0.0.jar node --host < Mac Public IP address > --detect-drivers true --publish-events tcp://< Selenium Hub Private IP address >:4442 --subscribe-events tcp://<Selenium Hub Private IP address>:4443 --config < toml config file >
+java -Xmx128m -jar ./selenium-server-4.0.0.jar node --host < Mac Public IP address > --detect-drivers true --publish-events tcp://< Selenium Hub Private IP address >:4442 --subscribe-events tcp://< Selenium Hub Private IP address >:4443 --config < toml config file >
 
 
 java -Xmx128m -jar ./selenium-server-4.0.0.jar node --host 3.128.28.238 --detect-drivers true --publish-events tcp://172.31.27.218:4442 --subscribe-events tcp://172.31.27.218:4443 --config nodeConfig5555.toml
