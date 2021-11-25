@@ -36,6 +36,9 @@ Install the security groups and rules from the latest files from the repository 
 *_exportRulesToCsv.csv
 *_exportSecurityGroupsToCsv.csv
 
+Also note the following page for "Web Server Rules" as they would apply to Selenium Hub (a web server), and "Rules for Ping" ...
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/security-group-rules-reference.html
 
 ## Windows EC2 Instances
 
