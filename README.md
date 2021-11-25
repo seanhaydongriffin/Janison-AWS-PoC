@@ -58,6 +58,10 @@ Also note the following page for "Web Server Rules" as they would apply to Selen
 
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/security-group-rules-reference.html
 
+To test security from the internet use the following port checker, entering the public IP address of the AWS instance and port number ...
+
+https://ping.eu/port-chk/
+
 ## Windows EC2 Instances
 
 ### Install Chrome for Windows (if not already)
