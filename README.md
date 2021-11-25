@@ -3,6 +3,8 @@
 
 ## AMIs
 
+https://www.rickgouin.com/run-a-windows-10-instance-in-aws-ec2/
+
 Import the following OS as AMIs ...
 
 Windows 7
