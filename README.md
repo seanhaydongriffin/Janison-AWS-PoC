@@ -72,6 +72,14 @@ C:\Selenium\selenium grid control.exe
 
 ## Mac EC2 Instances
 
+### Dedicated Host requirement
+
+May need to raise a service request for dedicated host quota increase of 0 to n for each Mac needed.
+
+### Billing
+
+https://anthayes.cloud/macos-on-aws-costs-and-tearing-it-down/
+
 ### Remote Controlling the Mac with VNC
 
 See https://www.lets-talk-about.tech/2020/12/aws-create-macos-desktop.html
