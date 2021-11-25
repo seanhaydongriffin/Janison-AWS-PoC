@@ -100,6 +100,10 @@ You are now logged into your macOS desktop.
 7.    Use Remote Desktop Manager (
 
 
+### Screen resolution control
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-mac-instances.html#mac-screen-resolution
+
 ### Install Chrome for Mac
 
 Download the correct version from ...
