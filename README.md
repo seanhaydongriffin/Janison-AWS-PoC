@@ -19,12 +19,16 @@ Comparions of instance types and pricing ...
 
 https://instances.vantage.sh/
 
-### Instances
+### Creating Instances
 
 Create the resources contained in "resources.csv" in the repository above.  
 Instances are created from AMIs.
 All the Window 7, 8.1 and 10 resources will be created from the 3 AMIs above.
 The Windows Server (2016) will be created from the AMI provided by AWS in the marketplace.
+
+### Cloning Instances
+
+https://docs.bitnami.com/aws/faq/administration/clone-server/
 
 ### Billing
 
