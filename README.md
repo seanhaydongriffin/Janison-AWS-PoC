@@ -24,16 +24,22 @@ Instances are created from AMIs.
 All the Window 7, 8.1 and 10 resources will be created from the 3 AMIs above.
 The Windows Server (2016) will be created from the AMI provided by AWS in the marketplace.
 
-## Volumes
+## Storage
+
+### Volumes
 
 There should be an Elastic Block Store Volume generated for each Instance above.
 Default is:
 Type = gp2
 Size = 40Gb
 
-## Snapshots
+### Snapshots
 
 There will be a single snapshot for each AMI (see "AMIs" above).
+
+### Billing
+
+https://aws.amazon.com/ebs/pricing/
 
 ## Security Groups
 
