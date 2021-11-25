@@ -11,18 +11,24 @@ Windows 10
 
 Additional AMIs can be manually created later from existing Instances (below).
 
-## Instance Types
+## Compute
+
+### Instance Types
 
 Comparions of instance types and pricing ...
 
 https://instances.vantage.sh/
 
-## Instances
+### Instances
 
 Create the resources contained in "resources.csv" in the repository above.  
 Instances are created from AMIs.
 All the Window 7, 8.1 and 10 resources will be created from the 3 AMIs above.
 The Windows Server (2016) will be created from the AMI provided by AWS in the marketplace.
+
+### Billing
+
+See Instance Types above.
 
 ## Storage
 
